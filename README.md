@@ -6,5 +6,5 @@ I am a software engineer specializing in web technology with an emphasis on Gola
 
 Currently I work at [Persefoni](https://persefoni.com/).
 
-Formerly I worked at [@iStreamplanet](https://github.com/iStreamPlanet) as [@ammiranda-isp](https://github.com/ammiranda-isp), [@zillow](https://github.com/zillow) and [@NOAA-ORR-ERD](https://github.com/NOAA-ORR-ERD) as [@alexmiranda-NOAA](https://github.com/alexmiranda-NOAA).
+Formerly I worked at [@iStreamplanet](https://github.com/iStreamPlanet) (as [@ammiranda-isp](https://github.com/ammiranda-isp)), [@zillow](https://github.com/zillow) and [@NOAA-ORR-ERD](https://github.com/NOAA-ORR-ERD) (as [@alexmiranda-NOAA](https://github.com/alexmiranda-NOAA)).
 
